@@ -1,5 +1,3 @@
-### Portfolio
-
 Explore my project portfolio to discover my expertise in data analysis and database management from CareerFoundry:
 
 - Proficient in Python for data cleaning, merging, filtering, sorting, grouping, and aggregating to derive actionable insights.
