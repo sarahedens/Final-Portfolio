@@ -6,3 +6,5 @@ Explore my project portfolio to discover my expertise in data analysis and datab
 - Demonstrated ability to transform raw data into meaningful business recommendations.
 
 My repositories showcase projects where I've applied these skills to solve complex business problems and deliver valuable insights. Let's connect to discuss how my analytical skills can contribute to your team or project.
+
+
